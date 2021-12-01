@@ -22,5 +22,4 @@ fn main() {
     }
 
     println!("sum is {}", sum);
-    
 }
